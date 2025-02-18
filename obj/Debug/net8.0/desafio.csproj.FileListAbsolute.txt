@@ -159,3 +159,4 @@ D:\dio\desafio\obj\Debug\net8.0\refint\desafio.dll
 D:\dio\desafio\obj\Debug\net8.0\desafio.pdb
 D:\dio\desafio\obj\Debug\net8.0\desafio.genruntimeconfig.cache
 D:\dio\desafio\obj\Debug\net8.0\ref\desafio.dll
+D:\dio\desafio\obj\Debug\net8.0\desafio.sourcelink.json
